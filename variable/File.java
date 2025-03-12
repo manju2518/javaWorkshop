@@ -1,10 +1,10 @@
-public class Example{
+public class File{
     public void multiply(int num1,int num2){
     int num=num1*num2;
-    System.out.println(num);
+    system.out.println(num);
     }
     public static void main(String args[]){
-    Example obj=new Example();
-    obj.multiply(5,10);
+    File obj=new File();
+    obj multiply(5,10)
     }
 }
