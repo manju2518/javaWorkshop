@@ -18,7 +18,7 @@ public class File{
         int num=num1/num2;
         return num;
     }
-public static void main(String args[]){
+public static void main(String args[]){       
     File obj=new File();
     int c=obj.add(50,67);
     int d=obj.sub(50,67);
