@@ -40,7 +40,7 @@ class Employee
         Scanner sc=new Scanner(System.in);
         while(true)
         {
-        System.out.println("\n1.Developer\n2.Manager");
+        System.out.println("\n1.Manager\n2.Developer");
         System.out.println("Enter the choice:");
         int i=sc.nextInt();
         if(i==1)
